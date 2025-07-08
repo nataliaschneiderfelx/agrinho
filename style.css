@@ -1,5 +1,9 @@
 header{
     background-color: aquamarine;
 }
-.caixa
+.caixa{
+    display: flex;
+    justify-content:space-around ;
+    
+}
 
